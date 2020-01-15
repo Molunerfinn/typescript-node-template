@@ -2,6 +2,12 @@
 
 Quickly starting to build a project using TS in Node.
 
+## Start
+
+Using this project as a template for you:
+
+![](https://cdn.jsdelivr.net/gh/Molunerfinn/test/picgo/ts-node-template.png)
+
 ## Usage
 
 ### Development
